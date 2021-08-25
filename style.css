@@ -44,8 +44,8 @@ footer {
 
 header {
   grid-area: header;
-  /* background-image: url("https://source.unsplash.com/1003x102/?animal"); */
-  background-image: url("Header.jpg");
+  background-image: url("https://source.unsplash.com/1003x102/?animal");
+  /* background-image: url("Header.jpg"); */
 
   background-size: cover;
   box-shadow: inset 0 0 10px black;
@@ -54,8 +54,8 @@ header {
 
 main {
   grid-area: main;
-  /* background-image: url("https://source.unsplash.com/755x555/?animal"); */
-  background-image: url("main.jpg");
+  background-image: url("https://source.unsplash.com/755x555/?animal");
+  /* background-image: url("main.jpg"); */
   background-size: cover;
   background-repeat: no-repeat;
   border: 2px #fff solid;
@@ -69,8 +69,8 @@ main img {
 
 section {
   grid-area: section;
-  /* background-image: url("https://source.unsplash.com/764x100/?animal"); */
-  background-image: url("section.jpg");
+  background-image: url("https://source.unsplash.com/764x100/?animal");
+  /* background-image: url("section.jpg"); */
   background-size: cover;
   border: 2px #fff solid;
   box-shadow: inset 0 0 20px black;
@@ -78,8 +78,8 @@ section {
 
 aside {
   grid-area: aside;
-  /* background-image: url("https://source.unsplash.com/245x675/?animal"); */
-  background-image: url("aside.jpg");
+  background-image: url("https://source.unsplash.com/245x675/?animal");
+  /* background-image: url("aside.jpg"); */
   background-size: cover;
   border: 2px #fff solid;
   box-shadow: inset 0 0 20px black;
@@ -87,8 +87,8 @@ aside {
 
 footer {
   grid-area: footer;
-  /* background-image: url("https://source.unsplash.com/1005x103/?animal"); */
-  background-image: url("footer.jpg");
+  background-image: url("https://source.unsplash.com/1005x103/?animal");
+  /* background-image: url("footer.jpg"); */
   background-size: cover;
   box-shadow: inset 0 0 20px black;
   border: 2px #fff solid;
@@ -99,15 +99,15 @@ footer {
     grid-column: 1/5;
     grid-row: 1/2;
     grid-row: 1/3;
-    /* background-image: url("https://source.unsplash.com/340x220/?animal"); */
-    background-image: url("Header_small.jpg");
+    background-image: url("https://source.unsplash.com/340x220/?animal");
+    /* background-image: url("Header_small.jpg"); */
   }
 
   aside {
     display: none;
     grid-column: 1/5;
     grid-row: 2/3;
-    /* background-image: url("https://source.unsplash.com/350x100/?animal"); */
+    background-image: url("https://source.unsplash.com/350x100/?animal");
   }
 
   /* nav {
@@ -118,20 +118,20 @@ footer {
   main {
     grid-column: 1/5;
     grid-row: 3/8;
-    /* background-image: url("https://source.unsplash.com/300x540/?animal"); */
-    background-image: url("main_small.jpg");
+    background-image: url("https://source.unsplash.com/300x540/?animal");
+    /* background-image: url("main_small.jpg"); */
   }
   section {
     grid-column: 1/5;
     grid-row: 8/10;
-    /* background-image: url("https://source.unsplash.com/350x210/?animal"); */
-    background-image: url("section_small.jpg");
+    background-image: url("https://source.unsplash.com/350x210/?animal");
+    /* background-image: url("section_small.jpg"); */
   }
 
   footer {
     grid-column: 1/5;
     grid-row: 10/11;
-    /* background-image: url("https://source.unsplash.com/305x100/?animal"); */
-    background-image: url("footer_small.jpg");
+    background-image: url("https://source.unsplash.com/305x100/?animal");
+    /* background-image: url("footer_small.jpg"); */
   }
 }
