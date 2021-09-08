@@ -1,4 +1,4 @@
-* {
+<<<<<<< HEAD * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -190,13 +190,12 @@ ul li a:hover {
 }
 
 .burger {
-   background-image: url("https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=610&ixid=MnwxfDB8MXxyYW5kb218MHx8YnVyZ2VyfHx8fHx8MTYzMTEwNzIzMA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=550");
-  
+  background-image: url("https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=610&ixid=MnwxfDB8MXxyYW5kb218MHx8YnVyZ2VyfHx8fHx8MTYzMTEwNzIzMA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=550");
 }
 
 .pizza {
   background-image: url("https://images.unsplash.com/photo-1552539618-7eec9b4d1796?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=610&ixid=MnwxfDB8MXxyYW5kb218MHx8cGl6emF8fHx8fHwxNjMxMTA3MzYy&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=550");
-  
+
   background-size: 500px;
 }
 
@@ -232,7 +231,7 @@ footer {
   width: 100%;
   height: 100px;
   background-color: #222;
-   box-shadow: 0 -5px 10px 0px black;
+  box-shadow: 0 -5px 10px 0px black;
 }
 
 footer .container {
@@ -303,7 +302,7 @@ footer .container .icons-container .icons {
   .banner {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
-     background-position: right;
+    background-position: right;
     background-size: cover;
   }
 
