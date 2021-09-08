@@ -242,26 +242,8 @@ text-shadow: 0 4px #fff;
 footer{
     width: 100%;
     height: 100px;
-    background-color:orange;
-    animation: coloring 2s infinite ;
+    background-color:#222;
 }
-
-
-@keyframes coloring{
-    40%{
-        background-image: linear-gradient(to right, orange, #000);
-    }
-    
-    50%{
-        
-        background-image: linear-gradient(to right, red, #000);
-    }
-
-    100%{
-        background-image: linear-gradient(to right, blue, #000);
-    }
-}
-
 
 footer .container{
     width: 100%;
