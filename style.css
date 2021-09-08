@@ -285,6 +285,10 @@ footer .container .icons-container .icons {
 }
 
 @media (max-width: 728px) {
+  
+  .banner{
+    background-position: center;
+  }
   .navbar ul {
     display: none;
   }
